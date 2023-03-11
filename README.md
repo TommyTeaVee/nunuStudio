@@ -4,11 +4,11 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftentone%2FnunuStudio.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftentone%2FnunuStudio?ref=badge_shield)
 
 
-- nunuStudio is an open source  game engine for the web it allows designers and web developers to easily develop 3D experiences for the web.
+- nunuStudio is a game engine for the web it allows designers and web developers to easily develop 3D experiences for the web.
 - Powered by [three.js](https://github.com/mrdoob/three.js) can run directly in the web or be exported as desktop application trough [nwjs.io](https://nwjs.io).
-- Fully featured visual editor, supports a wide range of file formats, the tools are open source and completely free to use for both personal and commercial usage.
+- Fully featured visual editor, supports a wide range of file formats simplifying your workflow from design to post production
 - Visual scene editor, code editor, visual tools to edit textures, materials, particle emitters and a powerful scripting API that allows the creation of complex applications using [JavaScript](https://www.javascript.com/) or [Python](https://www.python.org/).
-- Fully featured [web version](https://www.nunustudio.org/build/editor/index.html) of the editor is available on the project page.
+- Fully featured [web version](https://studio.3dvisions.xyz/build/editor/index.html) of the editor is available on the project page.
 - The web version is tested with [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Chrome](https://www.google.com/chrome/) and [Microsoft Edge](https://www.microsoft.com/en-us/edge), mobile browsers are supported as well.
 
 <img src="https://raw.githubusercontent.com/tentone/nunuStudio/master/source/page/src/assets/github/web.png">
